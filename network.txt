@@ -1,0 +1,8 @@
+[connection]
+wifi.powersave=2
+wifi.mac-address-randomization=1
+wifi.cloned-mac-address=permanent
+
+[device]
+wifi.scan-rand-mac-address=no
+
